@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    background: #93B5C9;
+    height: 100px;
+}
+div{
+    background: #AB2849;
+    height: 300px;
+}
+
+section{
+    background: #AB2849;
+    margin: 30px 30px 30px 250px;
+    height: 100px;
+    width: 1000px;
+}
+.vamos {
+    background: #AB2849;
+    height: 100px;
+    width: 500px;
+    display: inline-block;
+    margin: 0 0 0 250px;
+}
+.ok{
+    background: #AB2849;
+    height: 100px;
+    width: 497px;
+    display: inline-block;
+}
+
+footer{
+    background: #AB2849;
+    height: 100px;
+    margin: 40px 40px 0 40px;
+}

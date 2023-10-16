@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+main{
+    height: 150px;
+    background: #93B5C9;
+}
+div{
+    background: #AB2849;
+    height: 200px;
+}
+section{
+    margin: 30px 300px 0 0;
+    background: #AB2849;
+    height: 100px;
+}
+footer{
+    height: 100px;
+    background: #AB2849;
+    margin: 30px 30px 0 30px;
+}

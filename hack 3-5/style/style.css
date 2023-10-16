@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2? family= Anonymous+Pro & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+*{
+    margin: 0;
+}
+body{
+    background: #5CE1E6
+}
+nav{
+    background: white;
+    position: absolute;
+    height: 1550px;
+    width: 120px;
+    margin: 0 0 0 30px;
+}
+main{
+    position: relative;
+    margin: 10px 0 0 150px;
+}
+.img1, .img2{
+    width: 600px;
+}
+.img1{
+    float: left;
+}
+h1{
+    font-family: 'Anonymous Pro', monospace;
+    float: right;
+    font-size: 70px;
+    margin: 350px 0 0 0 ;
+}
+
+.img2{
+    float: right;
+    clear: both;
+    margin: px;
+}
+.Reyes{
+    margin: 200px 0 0 170px;
+    font-size: 30px;
+    float: left;
+}
+.reserva{
+    margin: 15px 0 0 170px;
+    float: left;
+    font-size: 50px;
+}
+.musica{
+    font-family: 'Anton', sans-serif;
+    clear: both;
+}

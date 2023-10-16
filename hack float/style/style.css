@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+main{
+    float: left;
+    width: 820px;
+    height: 100px;
+    background: #93B5C9;
+}
+nav{
+    clear: both;
+    height: 150px;
+    background: #AB2849;
+}
+section{
+    
+    background: #AB2849;
+    height: 100px;
+    margin: 30px 0 0 150px;
+}
+footer{
+    background: #AB2849;
+    height: 100px;
+    margin: 30px 50px 0 50px;
+}
